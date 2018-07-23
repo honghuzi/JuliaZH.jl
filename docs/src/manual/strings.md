@@ -296,6 +296,7 @@ julia> str[4:9]
 
 ```@raw html
 <!-- Notice that the expressions `str[k]` and `str[k:k]` do not give the same result: -->
+```
 
 ```jldoctest helloworldstring
 julia> str[6]
