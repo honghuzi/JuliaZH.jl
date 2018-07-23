@@ -7,6 +7,8 @@ const PAGES = [
         "manual/getting-started.md",
         "manual/variables.md",
         "manual/integers-and-floating-point-numbers.md",
+        "manual/complex-and-rational-numbers.md",
+        "manual/strings.md",
         # "manual/mathematical-operations.md",
         # "manual/complex-and-rational-numbers.md",
         # "manual/strings.md",
